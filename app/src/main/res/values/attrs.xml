@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AvatarImageBehavior">
+        <attr name="finalYPosition" format="dimension"/>
+        <attr name="startYPosition" format="dimension"/>
+        <attr name="startXPosition" format="dimension"/>
+        <attr name="startToolbarPosition" format="dimension"/>
+        <attr name="startHeight" format="dimension"/>
+        <attr name="finalHeight" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="FollowButtonBehavior">
+        <attr name="startYPos" format="dimension"/>
+        <attr name="finalH" format="dimension"/>
+        <attr name="finalW" format="dimension"/>
+        <attr name="startH" format="dimension"/>
+        <attr name="startW" format="dimension"/>
+    </declare-styleable>
+</resources>
